@@ -197,6 +197,19 @@ main {
   text-align: center;
 }
 
+.main_discription_item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--button_text_color);
+  background-color: var(--button_background_color);
+  width: 61em;
+  margin-top: 2em;
+  padding: 0.8em;
+  border-radius: 0.3em;
+  min-height: 3.7em;
+  text-align: center;
+}
 .main_button_item {
   color: var(--button_text_color);
   background-color: var(--button_background_color);
